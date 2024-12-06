@@ -1,6 +1,6 @@
 {
     "id": 109914766,
-    "name": "ausssssssssssie",
+    "name": "aussssssssie",
     "author": "Therealfive",
     "creators": ["Therealfive"],
     "verifier": "Therealfive",
@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Chiken11",
+            "link": "https://www.youtube.com/watch?v=dT44OV04OPI",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
