@@ -1,0 +1,18 @@
+{
+    "id": 109177433,
+    "name": "Aussie Thing",
+    "author": "Chiken11",
+    "creators": ["Chiken11"],
+    "verifier": "Chiken11",
+    "verification": "https://youtu.be/evGOX-jQd1s",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "JoeBeSlow",
+            "link": "https://www.youtube.com/watch?v=dT44OV04OPI",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
