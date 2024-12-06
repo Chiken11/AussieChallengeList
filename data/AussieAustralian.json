@@ -1,1 +1,18 @@
-
+{
+    "id": 109673850,
+    "name": "Aussie Australian",
+    "author": "Therealfive",
+    "creators": ["Therealfive"],
+    "verifier": "Therealfive",
+    "verification": "https://youtu.be/n3mxiFAEzPU",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "JoeBeSlow",
+            "link": "https://www.youtube.com/watch?v=dT44OV04OPI",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
