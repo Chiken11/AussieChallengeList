@@ -1,12 +1,12 @@
 [
     {
-        "role": "Therealfive",
-        "name": "List Owner",
+        "role": "owner",
+        "name": "Therealfive",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     },
     {
-        "role": "Chiken11",
-        "name": "List Admin",
+        "role": "admin",
+        "name": "Chiken11",
         "link": "https://www.youtube.com/@Prometheus_Alt"
     }
 ]
