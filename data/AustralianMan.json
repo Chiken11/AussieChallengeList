@@ -1,0 +1,30 @@
+{
+    "id": 109179376,
+    "name": "Australian Man",
+    "author": "Therealfive",
+    "creators": ["Therealfive"],
+    "verifier": "Therealfive",
+    "verification": "https://youtu.be/r9If9vPHDfw",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Chiken11",
+            "link": "https://www.youtube.com/watch?v=_-b-ELW_NyQ",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "JoeBeSlow",
+            "link": "https://www.youtube.com/watch?v=dT44OV04OPI",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Noxel",
+            "link": "https://www.youtube.com/watch?v=9JCn5I2Y-tY",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
